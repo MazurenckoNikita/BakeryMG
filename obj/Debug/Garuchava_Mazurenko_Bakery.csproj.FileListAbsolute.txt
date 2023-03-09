@@ -1,0 +1,197 @@
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\MainWindow.baml
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\MainWindow.g.cs
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\App.g.cs
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery_MarkupCompile.cache
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.g.resources
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.Properties.Resources.resources
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.GenerateResource.cache
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.CoreCompileInputs.cache
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\BasketPage.g.cs
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfOrdersxaml.g.cs
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfProducts.g.cs
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\Payment.g.cs
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\SalePage.g.cs
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\Clients.g.cs
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\SellerWindows\Seller.g.cs
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery_Content.g.cs
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery_MarkupCompile.lref
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\bin\Debug\Garuchava_Mazurenko_Bakery.exe.config
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\bin\Debug\Garuchava_Mazurenko_Bakery.exe
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\bin\Debug\Garuchava_Mazurenko_Bakery.pdb
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\BasketPage.baml
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfOrdersxaml.baml
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfProducts.baml
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\Payment.baml
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\SalePage.baml
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\Clients.baml
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\SellerWindows\Seller.baml
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.exe
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.pdb
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.dll
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.xml
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.CopyComplete
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.AssemblyReference.cache
+C:\Users\IMac6\source\repos\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\WindowRegistration.g.cs
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.AssemblyReference.cache
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.SuggestedBindingRedirects.cache
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\MainWindow.baml
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\MainWindow.g.cs
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\BasketPage.g.cs
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfOrdersxaml.g.cs
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfProducts.g.cs
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\Payment.g.cs
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\SalePage.g.cs
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\Clients.g.cs
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\WindowRegistration.g.cs
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\SellerWindows\Seller.g.cs
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\App.g.cs
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery_Content.g.cs
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery_MarkupCompile.cache
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery_MarkupCompile.lref
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.exe
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.pdb
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\Garuchava_Mazurenko_Bakery.exe.config
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\Garuchava_Mazurenko_Bakery.exe
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\Garuchava_Mazurenko_Bakery.pdb
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.dll
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.xml
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\ru\EntityFramework.resources.dll
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\BasketPage.baml
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfOrdersxaml.baml
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfProducts.baml
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\Payment.baml
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\SalePage.baml
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\Clients.baml
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\WindowRegistration.baml
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\SellerWindows\Seller.baml
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.g.resources
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.Properties.Resources.resources
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.GenerateResource.cache
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.CoreCompileInputs.cache
+D:\Users\Nikita\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.CopyComplete
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.AssemblyReference.cache
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.SuggestedBindingRedirects.cache
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\MainWindow.baml
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\MainWindow.g.cs
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\BasketPage.g.cs
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfOrdersxaml.g.cs
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfProducts.g.cs
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\Payment.g.cs
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\SalePage.g.cs
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\Clients.g.cs
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\WindowRegistration.g.cs
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\SellerWindows\Seller.g.cs
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\App.g.cs
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery_Content.g.cs
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery_MarkupCompile.cache
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery_MarkupCompile.lref
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.exe
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.pdb
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\Garuchava_Mazurenko_Bakery.exe.config
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\Garuchava_Mazurenko_Bakery.exe
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\Garuchava_Mazurenko_Bakery.pdb
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.dll
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.xml
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\BasketPage.baml
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfOrdersxaml.baml
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfProducts.baml
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\Payment.baml
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\SalePage.baml
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\Clients.baml
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\WindowRegistration.baml
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\SellerWindows\Seller.baml
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.g.resources
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.Properties.Resources.resources
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.GenerateResource.cache
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.CoreCompileInputs.cache
+C:\Users\IMac6\Desktop\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.CopyComplete
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.AssemblyReference.cache
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.SuggestedBindingRedirects.cache
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\MainWindow.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\MainWindow.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\BasketPage.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfOrdersxaml.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfProducts.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\Payment.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\SalePage.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\Clients.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\WindowRegistration.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\SellerWindows\Seller.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\App.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery_Content.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery_MarkupCompile.cache
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery_MarkupCompile.lref
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.exe
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.pdb
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\bin\Debug\Garuchava_Mazurenko_Bakery.exe.config
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\bin\Debug\Garuchava_Mazurenko_Bakery.exe
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\bin\Debug\Garuchava_Mazurenko_Bakery.pdb
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.dll
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.xml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\BasketPage.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfOrdersxaml.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\ListOfProducts.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\Payment.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Pages\SalePage.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\Clients.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\ClientWindows\WindowRegistration.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Windows\SellerWindows\Seller.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.g.resources
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.Properties.Resources.resources
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.GenerateResource.cache
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.CoreCompileInputs.cache
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.CopyComplete
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.AssemblyReference.cache
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.SuggestedBindingRedirects.cache
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\MainWindow.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\MainWindow.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Pages\BasketPage.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Pages\ListOfOrdersxaml.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Pages\ListOfProducts.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Pages\Payment.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Pages\SalePage.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Windows\ClientWindows\Clients.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Windows\ClientWindows\WindowRegistration.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Windows\SellerWindows\Seller.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\App.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Garuchava_Mazurenko_Bakery_Content.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Garuchava_Mazurenko_Bakery_MarkupCompile.cache
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Garuchava_Mazurenko_Bakery_MarkupCompile.lref
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Garuchava_Mazurenko_Bakery.exe
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Garuchava_Mazurenko_Bakery.pdb
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\bin\Debug\Garuchava_Mazurenko_Bakery.exe.config
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\bin\Debug\Garuchava_Mazurenko_Bakery.exe
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\bin\Debug\Garuchava_Mazurenko_Bakery.pdb
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\bin\Debug\EntityFramework.dll
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\bin\Debug\EntityFramework.xml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Windows\AddEditProductWindow.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Windows\ProductListWindow.g.cs
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Pages\BasketPage.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Pages\ListOfOrdersxaml.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Pages\ListOfProducts.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Pages\Payment.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Pages\SalePage.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Windows\ClientWindows\Clients.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Windows\ClientWindows\WindowRegistration.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Windows\SellerWindows\Seller.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Windows\AddEditProductWindow.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Windows\ProductListWindow.baml
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Garuchava_Mazurenko_Bakery.g.resources
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Garuchava_Mazurenko_Bakery.Properties.Resources.resources
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.GenerateResource.cache
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.CoreCompileInputs.cache
+C:\Users\IMac6\Desktop\Мазуренко Гаручава\Garuchava_Mazurenko_Bakery-main\obj\Debug\Garuchava_Mazurenko_Bakery.csproj.CopyComplete

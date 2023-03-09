@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="21f6919bea75492d8f1f1409da8384b3" Name="Diagram1" ZoomLevel="75">
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.Basket" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.Client" Width="1.5" PointX="1.5" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.Employee" Width="1.5" PointX="10" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.Gender" Width="1.5" PointX="7.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.Ingredient" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.MedBook" Width="1.5" PointX="7.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.Product" Width="1.5" PointX="0.75" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.ProductPurchase" Width="1.5" PointX="3" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.Purchase" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.Recipe" Width="1.5" PointX="3" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.sysdiagrams" Width="1.5" PointX="5.875" PointY="8.875" IsExpanded="true" />
+        <AssociationConnector Association="DB_Garuchava_Mazurenko_BakeryModel.FK_Basket_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_Garuchava_Mazurenko_BakeryModel.FK_Purchase_Client" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_Garuchava_Mazurenko_BakeryModel.FK_Employee_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_Garuchava_Mazurenko_BakeryModel.FK_Employee_MedBook" ManuallyRouted="true" >
+          <ConnectorPoint PointX="9.25" PointY="4.1821907552083326" />
+          <ConnectorPoint PointX="9.4975" PointY="27.781898234091852" />
+          <ConnectorPoint PointX="9.4975" PointY="3.0897061330328377" />
+          <ConnectorPoint PointX="9.8997219866700465" PointY="3.0897061330328377" />
+          <ConnectorPoint PointX="9.8997219866700465" PointY="29.748904013570133" />
+          <ConnectorPoint PointX="10" PointY="4.951396484375" />
+        </AssociationConnector>
+        <AssociationConnector Association="DB_Garuchava_Mazurenko_BakeryModel.FK_Employee_MedBook1" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_Garuchava_Mazurenko_BakeryModel.FK_Recipe_Ingredient" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_Garuchava_Mazurenko_BakeryModel.FK_ProductPurchase_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_Garuchava_Mazurenko_BakeryModel.FK_Recipe_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_Garuchava_Mazurenko_BakeryModel.FK_ProductPurchase_Purchase" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.ProductType" Width="1.5" PointX="3.25" PointY="15.25" />
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.Role" Width="1.5" PointX="3.75" PointY="18.125" />
+        <EntityTypeShape EntityType="DB_Garuchava_Mazurenko_BakeryModel.UserAccount" Width="1.5" PointX="0.75" PointY="6.75" />
+        <AssociationConnector Association="DB_Garuchava_Mazurenko_BakeryModel.FK_Client_UserAccount" />
+        <AssociationConnector Association="DB_Garuchava_Mazurenko_BakeryModel.FK_Employee_UserAccount" />
+        <AssociationConnector Association="DB_Garuchava_Mazurenko_BakeryModel.FK_Product_ProductType" />
+        <AssociationConnector Association="DB_Garuchava_Mazurenko_BakeryModel.FK_UserAccount_Role" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
